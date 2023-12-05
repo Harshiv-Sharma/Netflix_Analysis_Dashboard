@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Netflix Analysis Dashboard project! This Tableau-powered dashboard offers a comprehensive exploration of Netflix content, featuring insights into popular genres, trending shows and movies, viewership across different countries, and the trend of titles released over the years.
+Welcome to the Netflix Analysis Dashboard project! This Tableau-powered dashboard offers a comprehensive exploration of Netflix content, featuring insights into popular genres, trending shows and movies, viewership across different countries, and the trend of titles released over the years. The dataset for this project was acquired from Kaggle.
 
 ## Key Features
 
